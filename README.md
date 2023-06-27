@@ -4,7 +4,7 @@ key skills that I have developed include:
 
 Python programming: I am proficient in Python and have used it extensively for data manipulation, analysis, and visualization. I have experience with popular data science libraries such as NumPy, Pandas, Matplotlib, and Seaborn.
 
-SQL querying: I am comfortable writing SQL queries to extract data from relational databases and have experience with MySQL and PostgreSQL.
+SQL querying: I am comfortable writing SQL queries to extract data from relational databases and have experience with MySQL.
 
 Excel skills: I have strong Excel skills and am proficient in using functions, pivot tables, and charts for data analysis and visualization.
 
