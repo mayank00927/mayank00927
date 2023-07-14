@@ -12,6 +12,8 @@ Machine learning: I have experience with building machine learning models using 
 
 I am always looking to improve my skills and learn new techniques. If you have any feedback or suggestions on my projects, please don't hesitate to reach out!
 
+You can reach me on -
+linkedin --> https://www.linkedin.com/in/mayank-sharma-a62233ab/
 
 
 
