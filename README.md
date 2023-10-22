@@ -2,7 +2,7 @@
 
 You can reach me on ---> https://www.linkedin.com/in/mayank-sharma-a62233ab/
 
-- 💬 Ask me about **python, sql, machine learning, NLP, Power BI**
+💬 Ask me about **python, sql, machine learning, NLP, Power BI**
   
 key skills that I have developed include:
 
