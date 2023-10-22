@@ -1,5 +1,9 @@
 # Hi 👋 I am an aspiring Data Scientist / Data Analyst.
 
+You can reach me on ---> https://www.linkedin.com/in/mayank-sharma-a62233ab/
+
+- 💬 Ask me about **python, sql, machine learning, NLP, Power BI**
+  
 key skills that I have developed include:
 
 Python programming: I am proficient in Python and have used it extensively for data manipulation, analysis, and visualization. I have experience with popular data science libraries such as NumPy, Pandas, Matplotlib, and Seaborn.
@@ -13,10 +17,6 @@ Machine learning: I have experience with building machine learning models using 
 Power BI: I am learning Power BI, have knowledge on power queries, power view charts and reports.
 
 I am always looking to improve my skills and learn new techniques. If you have any feedback or suggestions on my projects, please don't hesitate to reach out!
-
-You can reach me on ---> https://www.linkedin.com/in/mayank-sharma-a62233ab/
-
-- 💬 Ask me about **python, sql, machine learning, NLP, Power BI**
 
 
 <h3 align="left">Languages and Tools:</h3>
