@@ -1,6 +1,7 @@
 # Hi 👋 I am an aspiring Data Scientist / Data Analyst.
 
-You can reach me on ---> https://www.linkedin.com/in/mayank-sharma-a62233ab/
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-sharma-a62233ab/)  
 
 💬 Ask me about **Python, SQL, Machine Learning, NLP, Power BI**
   
@@ -14,7 +15,7 @@ Excel skills: I have strong Excel skills and am proficient in using functions, p
 
 Machine learning: I have experience with building machine learning models using scikit-learn and have worked on various classification and regression problems.
 
-Power BI: I am learning Power BI, have knowledge on power queries, power view charts and reports.
+Power BI: I am learning Power BI, have knowledge on power queries, power view charts,data modelling and reports.
 
 I am always looking to improve my skills and learn new techniques. If you have any feedback or suggestions on my projects, please don't hesitate to reach out!
 
