@@ -1,4 +1,5 @@
-# Hi 👋 I am an aspiring Data Scientist / Data Analyst.
+# Hi 👋 I am Mayank Sharma.
+# Data Scientist / Data Analyst.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mayank-sharma-a62233ab/)  
